@@ -1,0 +1,1 @@
+//*[@id="user-name"] //*[@id="password"] //*[@id="login-button"] //*[@id="login_credentials"] //*[@id="root"]/div/div[2]/div[2]/div/div[2] //*[@id="item_4_img_link"]/img //*[@id="item_4_title_link"]/div //*[@id="inventory_container"]/div/div[1]/div[2]/div[1]/div //*[@id="inventory_container"]/div/div[1]/div[2]/div[2]/div //*[@id="add-to-cart-sauce-labs-backpack"]

@@ -1,3 +1,0 @@
-(By.xpath("//*[@id=\"user-name\"]"));
-(By.xpath("//*[@id=\"password\"]"));
-(By.xpath("//*[@id=\"login-button\"]"));
